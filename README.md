@@ -3,7 +3,17 @@
 ### Pre-requirements
 
 1. Node JS 
+'''
+vertico-cli ➤ node --version          
+v8.1.2
+vertico-cli ➤ npm --version        
+5.3.0
+'''
 2. Docker 
+'''
+vertico-cli ➤ docker --version            
+Docker version 17.06.0-ce, build 02c1d87
+'''
 3. Virtual Machine
 
 ### Bug List
