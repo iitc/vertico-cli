@@ -2,8 +2,7 @@
 
 ### Quick install ( tested in Ubuntu and MacOS)
 
-``` git clone 
-### Pre-requirements
+``` 
 git clone https://github.com/iitc/vertico-cli.git
 cd vertico-cli
 npm install -g
