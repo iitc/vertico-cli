@@ -1,7 +1,13 @@
 # vertico-cli
 
-### Pre-requirements
+### Quick install ( tested in Ubuntu and MacOS)
 
+``` git clone 
+### Pre-requirements
+git clone https://github.com/iitc/vertico-cli.git
+cd vertico-cli
+npm install -g
+vertico
 1. Node JS 
 ```
 vertico-cli ➤ node --version          
