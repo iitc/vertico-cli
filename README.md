@@ -8,6 +8,8 @@ cd vertico-cli
 npm install -g
 vertico
 ```
+
+
 1. Node JS 
 ````
 vertico-cli ➤ node --version          
@@ -22,7 +24,8 @@ vertico-cli ➤ npm --version
 vertico-cli ➤ docker --version            
 Docker version 17.06.0-ce, build 02c1d87
 ```
-3. Virtual Machine
+
+3. Virtual Machine 5.1
 
 ### Bug List
 
@@ -39,8 +42,8 @@ Docker version 17.06.0-ce, build 02c1d87
 4. vertico
 
 For example - you should be able to see some thing like this.
-```
 
+```
 \ \    / /         | |  (_)
  \ \  / /___  _ __ | |_  _   ___  ___
   \ \/ // _ \| '__|| __|| | / __|/ _ \
