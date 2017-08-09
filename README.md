@@ -14,7 +14,6 @@ vertico-cli ➤ node --version
 v8.1.2
 vertico-cli ➤ npm --version        
 5.3.0
-
 ```
 
 2. Docker 
@@ -41,7 +40,6 @@ Docker version 17.06.0-ce, build 02c1d87
 
 For example - you should be able to see some thing like this.
 ```
-
 
 \ \    / /         | |  (_)
  \ \  / /___  _ __ | |_  _   ___  ___
