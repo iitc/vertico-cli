@@ -1,6 +1,14 @@
 # vertico-cli
 
-### Pre-requirements
+### Quick install ( tested in Ubuntu and MacOS)
+
+``` 
+git clone https://github.com/iitc/vertico-cli.git
+cd vertico-cli
+npm install -g
+vertico
+```
+
 
 1. Node JS 
 ```
@@ -9,18 +17,21 @@ v8.1.2
 vertico-cli ➤ npm --version        
 5.3.0
 ```
+
 2. Docker 
+
 ```
 vertico-cli ➤ docker --version            
 Docker version 17.06.0-ce, build 02c1d87
 ```
-3. Virtual Machine
+
+3. Virtual Machine 5.1
 
 ### Bug List
 
-1. User can't run commond from anywhere. User must `cd` to vertico source code. 
 
-2. [Feel free to create a bug/feature here](https://github.com/iitc/vertico-cli/issues)
+1. [Feel free to create a bug/feature here](https://github.com/iitc/vertico-cli/issues)
+2. Kill,Stop, lost and unregister states are not fully featured. 
 
 
 ### Install Vertico
@@ -31,9 +42,8 @@ Docker version 17.06.0-ce, build 02c1d87
 4. vertico
 
 For example - you should be able to see some thing like this.
+
 ```
-
-
 \ \    / /         | |  (_)
  \ \  / /___  _ __ | |_  _   ___  ___
   \ \/ // _ \| '__|| __|| | / __|/ _ \
